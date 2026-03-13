@@ -13,9 +13,8 @@ El enlace adjunto contiene un índice detallado que reúne explicaciones, eviden
 ---
 
 * **[1]** D. Harris y S. Harris, *Digital Design and Computer Architecture: RISC-V Edition*, 2nd ed. Morgan Kaufmann, 2022. ISBN: 978-0128200643.
-* **[2]** F. Zumbado, "Getting Setup with the Tang Nano 9k," *Open Source FPGA Environment*, [Online]. Disponible en: https://github.com/FZumb4do/open_source_fpga_environment.
-* **[3]** Actualidad Tecnológica, "Esquema de conexión para display de 7 segmentos," [Imagen]. Disponible en: https://actualidadtecnologica.com/wp-content/uploads/2020/04/Display-de-7-segmentos.jpg.
-* **[4]** Sipeed Wiki, "Tang Nano 9K Hardware Documentation," [Online]. Disponible en: https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html.
+* **[2]** F. Zumbado, "Getting Setup with the Tang Nano 9k," *Open Source FPGA Environment*. Disponible en: https://github.com/FZumb4do/open_source_fpga_environment.
+* **[3]** Sipeed Wiki, "Tang Nano 9K Hardware Documentation," [Online]. Disponible en: https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html.
 
 ---
 
