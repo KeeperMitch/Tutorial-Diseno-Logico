@@ -1,3 +1,10 @@
+# Forzar detección de archivos de hardware sin importar dónde estén
+*.v linguist-detectable=true
+*.sv linguist-detectable=true
+
+# Asegurar que se clasifiquen correctamente
 *.v linguist-language=Verilog
 *.sv linguist-language=SystemVerilog
+
+# Seguir ignorando el Makefile
 Makefile linguist-documentation=true
