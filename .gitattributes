@@ -1,10 +1,11 @@
-# Forzar a GitHub a entrar en la carpeta build y contar los archivos .v y .sv
-build/*.v linguist-detectable=true
-build/*.sv linguist-detectable=true
+# Forzar a que TODO el contenido de la carpeta build sea detectable
+build/** linguist-vendored=false
+build/** linguist-detectable=true
 
-# Asignar los lenguajes correctamente
-build/*.v linguist-language=Verilog
-build/*.sv linguist-language=SystemVerilog
+# Asignar lenguajes de forma global
+*.v linguist-language=Verilog
+*.sv linguist-language=SystemVerilog
 
-# Mantener el Makefile fuera de las estadísticas
+# Ignorar archivos de configuración y Makefiles
 Makefile linguist-documentation=true
+*.cst linguist-documentation=true
